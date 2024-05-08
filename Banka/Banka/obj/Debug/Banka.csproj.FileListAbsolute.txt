@@ -1,0 +1,7 @@
+C:\Valentin 9a\Banka\Banka\bin\Debug\Banka.exe.config
+C:\Valentin 9a\Banka\Banka\bin\Debug\Banka.exe
+C:\Valentin 9a\Banka\Banka\bin\Debug\Banka.pdb
+C:\Valentin 9a\Banka\Banka\obj\Debug\Banka.csproj.AssemblyReference.cache
+C:\Valentin 9a\Banka\Banka\obj\Debug\Banka.csproj.CoreCompileInputs.cache
+C:\Valentin 9a\Banka\Banka\obj\Debug\Banka.exe
+C:\Valentin 9a\Banka\Banka\obj\Debug\Banka.pdb

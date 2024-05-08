@@ -1,0 +1,7 @@
+C:\Valentin 9a\Hora\Hora\obj\Debug\Hora.csproj.AssemblyReference.cache
+C:\Valentin 9a\Hora\Hora\obj\Debug\Hora.csproj.CoreCompileInputs.cache
+C:\Valentin 9a\Hora\Hora\bin\Debug\Hora.exe.config
+C:\Valentin 9a\Hora\Hora\bin\Debug\Hora.exe
+C:\Valentin 9a\Hora\Hora\bin\Debug\Hora.pdb
+C:\Valentin 9a\Hora\Hora\obj\Debug\Hora.exe
+C:\Valentin 9a\Hora\Hora\obj\Debug\Hora.pdb

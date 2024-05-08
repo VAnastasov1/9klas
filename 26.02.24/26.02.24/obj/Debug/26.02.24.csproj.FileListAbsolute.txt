@@ -1,0 +1,7 @@
+C:\Valentin 9a\26.02.24\26.02.24\bin\Debug\26.02.24.exe.config
+C:\Valentin 9a\26.02.24\26.02.24\bin\Debug\26.02.24.exe
+C:\Valentin 9a\26.02.24\26.02.24\bin\Debug\26.02.24.pdb
+C:\Valentin 9a\26.02.24\26.02.24\obj\Debug\26.02.24.csproj.AssemblyReference.cache
+C:\Valentin 9a\26.02.24\26.02.24\obj\Debug\26.02.24.csproj.CoreCompileInputs.cache
+C:\Valentin 9a\26.02.24\26.02.24\obj\Debug\26.02.24.exe
+C:\Valentin 9a\26.02.24\26.02.24\obj\Debug\26.02.24.pdb
